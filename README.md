@@ -1,2 +1,2 @@
-# LowPolyZombieGame
-A low poly 3D zombie project made in Java with LWJGL.
+# LWJGL Engine
+A simple LWJGL 3D engine.
